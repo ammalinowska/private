@@ -1,2 +1,3 @@
-# private
-Unpublished code
+# This repository is for reference only
+Presented code has not been published as of 30.03.2023.
+Uploaded files are not meant to be functional together, but provide reference of my programming skills 
